@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Clemm01
-- 👀 I’m interested in programming
+- 👀 I’m an architect teaching myself how to code
 - 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on development of an app
 - 📫 Reach me at clementlevis80@gmail.com
